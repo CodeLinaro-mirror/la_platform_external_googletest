@@ -9,11 +9,11 @@ third_party {
     type: GIT
     value: "https://github.com/google/googletest.git"
   }
-  version: "70b90929b1da20580cad9ed996397cf04ef8f16d"
+  version: "3005672db1d05f2378f642b61faa96f85498befe"
   license_type: NOTICE
   last_upgrade_date {
     year: 2020
-    month: 7
-    day: 10
+    month: 10
+    day: 28
   }
 }
